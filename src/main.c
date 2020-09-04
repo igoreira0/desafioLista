@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "./linkedList.h"
+#include "./inc/linkedList.h"
 
 void print_entry(char *entry) {
 	printf("You entered: %s\n", entry);
